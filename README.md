@@ -80,7 +80,6 @@ npm install
 cd ../client
 npm install
 ```
-
 ### 3. Environment Setup
 
 #### Backend Environment Variables
