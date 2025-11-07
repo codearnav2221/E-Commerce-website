@@ -69,6 +69,7 @@ cd E-commerce
 
 ### 2. Install Dependencies
 ```bash
+
 # Install root dependencies
 npm install
 
